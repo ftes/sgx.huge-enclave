@@ -1,0 +1,17 @@
+//Visual studio generated
+Debug/
+Release/
+Simulation/
+ipch/
+*.opensdf
+*.v11.suo
+*.sdf
+
+//SGX SDK generated
+*_u.c
+*_u.h
+*_t.c
+*_t.h
+
+//private keys
+*.pem
